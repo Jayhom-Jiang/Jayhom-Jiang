@@ -17,17 +17,21 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hey there! I'm Jayhom Jiang. 👋</h2>
+<h2> Hey there! 👋 I'm Jayhom Jiang. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and Keep track of progress.
+- 🤔 &nbsp; Exploring new technologies and keep track of progress.
 - 🎓 &nbsp; Master of Engineering in Information and Communication Engineering at University of Electronic Science and Technology of China. 
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bachelor of Engineering in Electronic Information Engineering & Financial Engineering at Sichuan University.
 - 💼 &nbsp; Studying at University of Electronic Science and Technology of China.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Radiation Source Identification.
 - ✍️ &nbsp; Writing my personal thoughts on Programming & Tech in my projects.
 
+<details>
+  <summary>Some other achievements about me~e~e</summary>
+  <br>
+     
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
