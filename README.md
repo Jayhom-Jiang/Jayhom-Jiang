@@ -16,17 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Jayhom Jiang.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Master of Engineering in Information and Communication Engineering at University of Electronic Science and Technology of China. Bachelor of Engineering in Electronic Information Engineering & Financial Engineering at Sichuan University.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Artificial Intelligence and Radiation Source Identification.
+- ✍️ &nbsp; Writing my personal thoughts on Programming & Tech in my projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
