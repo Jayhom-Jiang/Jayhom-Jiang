@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <!--
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 -->
-
+<h3> 👑 &nbsp; Some GitHub Statistical Reports </h3>
 <br/>
 <p align="center">
 <a href="https://github.com/AVS1508">
