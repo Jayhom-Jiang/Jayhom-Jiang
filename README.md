@@ -28,16 +28,14 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Radiation Source Identification.
 - ✍️ &nbsp; Writing my personal thoughts on Programming & Tech in my projects.
 
-
 <details>
   <summary>Some other achievements about me~e~e</summary>
-  <br>
-     
+  <br>    
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MATLAB](https://img.shields.io/badge/-matlab-333333?style=flat&logo=matlab)
+  ![MATLAB](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab)
 <!--   
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
