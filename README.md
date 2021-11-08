@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 <p align="center">
-<a href="mailto:Wayne_Jiang1996@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Wayne_Jiang1996@outlook.com-blue?style=flat-square&logo=outlook"></a>
+<a href="mailto:Wayne_Jiang1996@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Wayne_Jiang1996@outlook.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
 <!--
 <p align="center">
