@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and keep track of progress.
-- 🎓 &nbsp; Master of Engineering in Information and Communication Engineering at University of Electronic Science and Technology of China. 
-- 🎓 &nbsp; Bachelor of Engineering in Electronic Information Engineering & Financial Engineering at Sichuan University.
+- 🎓 &nbsp; Master of Engineering in Information and Communication Engineering at UESTC. 
+- 🎓 &nbsp; Bachelor of Engineering in Electronic Information Engineering & Financial Engineering at SCU.
 - 💼 &nbsp; Studying at University of Electronic Science and Technology of China.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Radiation Source Identification.
 - ✍️ &nbsp; Writing my personal thoughts on Programming & Tech in my projects.
