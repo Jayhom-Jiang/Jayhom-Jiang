@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Writing my personal thoughts on Programming & Tech in my projects.
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>  
+  <summary>Some other information about me~e~e</summary>  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
