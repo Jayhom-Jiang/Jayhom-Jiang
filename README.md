@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 <p align="center">
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Wayne_Jiang1996@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 <!--
 <p align="center">
@@ -116,4 +116,4 @@ Here are some ideas to get you started:
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jayhom-Jiang.Jayhom-Jiang" alt="visitor badge"/>       
 </p>
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ May there be enough clouds in your life to make a beautiful sunset.
