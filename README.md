@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
   ![Dreamweaver](https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=adobe-Dreamweaver)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![After Effects](https://img.shields.io/badge/-After-Effects-333333?style=flat&logo=adobe-after-effects)
+  ![AfterEffects](https://img.shields.io/badge/-Effects-333333?style=flat&logo=adobe-after-effects)
 
 <br/>
 
