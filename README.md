@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 👋 
 -->
 
 
-<h2> Hey there!  I'm Jayhom Jiang. 👋 </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2> Hey there!  I'm Jayhom Jiang.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -29,7 +30,11 @@ Here are some ideas to get you started:
 - ✍️ &nbsp; Writing my personal thoughts on Programming & Tech in my projects.
 
 <details>
-  <summary>Some other information about me~e~e</summary>  
+  <summary>Some other information about me~e~e</summary> 
+  
+ 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
