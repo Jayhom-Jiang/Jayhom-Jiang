@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MATLAB](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
 <!--   
