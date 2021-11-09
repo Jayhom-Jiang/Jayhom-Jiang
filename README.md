@@ -90,10 +90,10 @@ Here are some ideas to get you started:
 </p>
 -->
  
-<p align="left">
+<p align="center">
 <a href="https://github.com/Jayhom-Jiang">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jayhom-Jiang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayhom-Jiang&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 </p>
   
