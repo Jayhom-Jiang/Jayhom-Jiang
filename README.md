@@ -81,20 +81,21 @@ Here are some ideas to get you started:
 -->
 <h3> 👑 &nbsp; GitHub Statistical Reports </h3>
 <br/>
-  
+<!-- 
 <p align="center">
 <a href="https://github.com/Jayhom-Jiang">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jayhom-Jiang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayhom-Jiang&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--  
+-->
+ 
 <p align="center">
 <a href="https://github.com/Jayhom-Jiang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayhom-Jiang&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayhom-Jiang&theme=buefy&layout=compact" />
 </a>
--->
+
 <br/>
 <!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
