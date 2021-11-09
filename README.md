@@ -95,8 +95,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jayhom-Jiang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayhom-Jiang&theme=algolia&layout=compact&langs_count=8" />
 </a>
+</p>
 
-<br/>
 <!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
